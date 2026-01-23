@@ -19,12 +19,12 @@ const (
 	INT   = "INT"   // 1343456
 
 	// Operators
-	ASSIGN  = "="
-	PLUS    = "+"
-	MINUS   = "-"
-	BANG    = "!"
-	ATERISK = "*"
-	SLASH   = "/"
+	ASSIGN   = "="
+	PLUS     = "+"
+	MINUS    = "-"
+	BANG     = "!"
+	ASTERISK = "*"
+	SLASH    = "/"
 
 	LT = "<"
 	GT = ">"
